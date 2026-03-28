@@ -1,41 +1,56 @@
 # 👋 Hi, I'm Sammy Odero
 
-💻 Software Engineer | Django Developer | Machine Learning Enthusiast
+AI Systems Engineer | Building intelligent decision systems
+Python • Machine Learning • Real-Time Systems • Backend Architecture
 📍 Nairobi, Kenya
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Currently building: AI-powered Email Spam Detection System
-* 🧠 Skilled in: Python, Django, Machine Learning
-* ⚡ Focus: Building secure, scalable systems
-* 🎯 Goal: To develop intelligent systems that solve real-world problems
+- Build AI-powered decision systems  
+- Design real-time data pipelines  
+- Develop backend systems using Python & Django  
+- Apply machine learning to solve real-world problems
 
 ---
 
 ## 🛠 Tech Stack
 
-* **Languages:** Python, JavaScript
-* **Frameworks:** Django, Streamlit
-* **Tools:** Git, Docker, Heroku
-* **ML:** Scikit-learn, Naive Bayes, Random Forest
+Python • Django • Machine Learning • SQL • Git • REST APIs  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔐 Banking System (Django)
+### 🔹 TRADESMITH – AI Trading Decision System  
+AI-powered assistant replicating Smart Money Concepts (SMC) trading logic using rule-based decision frameworks and pattern recognition.  
+➡️ Focus: Financial signal processing, decision systems, real-time analysis  
 
-Secure banking application with authentication, transactions, and account management.
+---
 
-### 🤖 Spam Email Detector
+### 🔹 AI Bandwidth Optimization System  
+Intelligent system for dynamic bandwidth allocation using predictive modeling and traffic pattern analysis.  
+➡️ Focus: Network optimization, real-time data processing  
 
-Machine learning model using Naive Bayes to classify spam emails.
+---
 
-### 📊 Email Header Classifier
+### 🔹 Banking System (Django)  
+Secure backend system for financial transactions, authentication, and data integrity.  
 
-Random Forest-based system detecting spam, phishing, and legitimate emails.
+---
+
+### 🔹 Payroll System  
+Enterprise-style payroll processing system with tax and deduction automation.  
+
+---
+
+### 🔹 Recruitment System  
+Scalable system for managing hiring workflows and candidate pipelines.  
+
+---
+## 🎯 Current Focus
+Building scalable AI systems for real-time decision-making and intelligent automation.
 
 ---
 
